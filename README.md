@@ -1,6 +1,6 @@
 ### Welcome 👋
 <p align="center">
-   <img src="https://github.com/Shotscape/shotscape/raw/github.gif"  
+   <img src="https://github.com/Shotscape/shotscape/blob/main/raw/github.gif"  
 </p>
 <!--
 **Shotscape/shotscape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
